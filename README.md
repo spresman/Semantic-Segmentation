@@ -8,3 +8,5 @@ A U-Net is a common convolutional neural network (CNN) architecture well-suited 
 
 Project details:
 A U-Net was built from scratch using the keras, an open-source software library that provides a Python interface for neural networks and deep learning. The data used was obtained from the "Electron Microscopy Dataset" provided by EPFL. The network was trained for 25 epochs and reached a training accuracy of 98.68% and a validation accuracy of 97.67%. 
+
+Dataset: https://www.epfl.ch/labs/cvlab/data/data-em/
